@@ -1,1 +1,4 @@
 Here is a new feature haha
+- variable names camelCase
+- constant names camelCase
+- class name PascalCase
